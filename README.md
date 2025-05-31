@@ -69,4 +69,4 @@ The notebook will:
 - Generate all visualisations (bar charts and heatmaps) based on predefined logic.
 
 📬 Contact
-For any questions, please contact: [@Nasilem4rc](https://github.com/Nasilem4rc]
+For any questions, please contact: [@Nasilem4rc][https://github.com/Nasilem4rc]
